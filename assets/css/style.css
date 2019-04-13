@@ -1,0 +1,41 @@
+body {
+    background-image: url(../images/bgimage.jpg);
+    font-family: 'MedievalSharp', cursive;
+}
+
+.container {
+
+    background-color: black;
+    opacity: .9;
+    height: 550px;
+    color: red;
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    text-align: center;
+
+}
+
+
+.container h1{
+    font-size: 2em;
+    border-bottom: dashed red;
+    width: 100%;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.question{
+    text-align: center;
+    margin: 25px 50px;
+    border-style: solid;
+}
+
+.answers{
+    text-align: center;
+    margin: 35px 100px;
+    border-style: solid;
+}
