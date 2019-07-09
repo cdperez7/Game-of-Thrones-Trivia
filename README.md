@@ -4,11 +4,11 @@ A Game of Thrones Trivia game for those who want to test their knowledge of A So
 
 Link to game: https://cdperez7.github.io/TriviaGame/
 
-This will be difficult for casual show watchers but doable for book readers and the dedicated few.
+This will be difficult for casual show watchers but doable for book readers and the dedicated ASOIAF fans.
 
 ![Trivia](https://i.imgur.com/xpHadtx.png)
 
-This was created using JavaScript for the logic and jQuery to manipulate HTML. Questions generated with countdown timer for answers. After completing the quiz the results aare displayed to you. 
+This was created using JavaScript for the logic and jQuery to manipulate HTML. Questions generated with countdown timer for answers. After completing the quiz the results are displayed to you. 
 
 ![Trivia2](https://i.imgur.com/YurWSjU.png)
 
