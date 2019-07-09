@@ -1,4 +1,4 @@
-# TriviaGame
+# Game of Thrones Trivia Game
 
 A Game of Thrones Trivia game for those who want to test their knowledge of A Song of Ice and Fire.
 
@@ -13,8 +13,8 @@ This was created using JavaScript for the logic and jQuery to manipulate HTML. Q
 ![Trivia2](https://i.imgur.com/YurWSjU.png)
 
 **Technologies Utilized**
-*HTML5 
-*CSS 
-*JavaScript 
-*JQuery
+* HTML5 
+* CSS 
+* JavaScript 
+* JQuery
 
