@@ -2,7 +2,7 @@
 
 A Game of Thrones Trivia game for those who want to test their knowledge of A Song of Ice and Fire.
 
-Link to game: https://cdperez7.github.io/TriviaGame/
+Link to game: https://cdperez7.github.io/Game-of-Thrones-Trivia/
 
 This will be difficult for casual show watchers but doable for book readers and the dedicated ASOIAF fans.
 
